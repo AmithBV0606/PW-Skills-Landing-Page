@@ -31,7 +31,37 @@ A simple landing page for PW Skills, built using HTML and Tailwindcss.
   
   <li>On Phone : 
     <div>
-      blob:https://web.whatsapp.com/e873a209-a29a-4b4a-9d32-d61c770849c0
+      <img width="209" alt="image" src="https://github.com/AmithBV0606/PW-Skills-Landing-Page/assets/154083629/8f113f32-9a3c-4e8a-bdc2-780646605cd4">
+    </div>
+  </li>
+
+  <li>
+    <div>
+      <img width="212" alt="image" src="https://github.com/AmithBV0606/PW-Skills-Landing-Page/assets/154083629/5fe52bfe-ae56-42f6-96dd-0a9cc9e44915">
+    </div>
+  </li>
+
+   <li>
+    <div>
+      <img width="209" alt="image" src="https://github.com/AmithBV0606/PW-Skills-Landing-Page/assets/154083629/100b5ba0-c8db-4789-adbd-a89bceb535d0">
+    </div>
+  </li>
+
+   <li>
+    <div>
+      <img width="211" alt="image" src="https://github.com/AmithBV0606/PW-Skills-Landing-Page/assets/154083629/742944e0-2d4c-4c18-96dc-4d66b6bb9800">
+    </div>
+  </li>
+
+   <li>
+    <div>
+      <img width="212" alt="image" src="https://github.com/AmithBV0606/PW-Skills-Landing-Page/assets/154083629/e194b998-f498-401e-a8dc-f7a18e79fc3b">
+    </div>
+  </li>
+
+  <li>
+    <div>
+      <img width="214" alt="image" src="https://github.com/AmithBV0606/PW-Skills-Landing-Page/assets/154083629/c268556c-326d-4614-b2d4-8d856daae4f9">
     </div>
   </li>
 </ol>
